@@ -1,0 +1,46 @@
+.title {
+    text-align: center;
+    color: khaki;
+    font-weight: bold;
+    font-family: Lucida Console;
+}
+
+h2.tabs {
+    display: flex;
+    justify-content: center;
+}
+
+div.tabs1 {
+    display: flex;
+    justify-content: center;
+    border: 3px solid cyan;
+}
+
+body {
+    font-weight:bold;
+    font-family: Lucida Console;
+}
+
+label.buttonActionLabel {
+    font-weight: bold;
+    font-family: Lucida Console;
+}
+
+.center {
+    text-align: center;
+}
+
+div.flextable {
+    display: flex;
+    justify-content: center;
+}
+
+.achievementLocked {
+    background-color: red;
+    cursor: not-allowed;
+}
+
+.achievementUnlocked {
+    background-color: rgba(0, 255, 0, 0.8);
+    cursor: default;
+}
